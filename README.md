@@ -7,4 +7,4 @@ cd docker-kotlin-REPL
 sudo docker build -t kotlin-repl .
 sudo docker run -ti kotlin-repl
 ```
-You may or may not need to run docker as sudo.
+You may or may not need to run docker with `sudo`.
